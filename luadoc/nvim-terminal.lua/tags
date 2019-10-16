@@ -1,0 +1,5 @@
+terminal-lua-api	terminal-lua.txt	/*terminal-lua-api*
+terminal-lua-introduction	terminal-lua.txt	/*terminal-lua-introduction*
+terminal-lua-quickstart	terminal-lua.txt	/*terminal-lua-quickstart*
+terminal.highlight_buffer	terminal-lua.txt	/*terminal.highlight_buffer*
+terminal.lua	terminal-lua.txt	/*terminal.lua*
